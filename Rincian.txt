@@ -1,0 +1,21 @@
+Setelah Pelanggan mengklik Pakaian, akan ada:
+1. Filter Kategori Produk => Pria atau Wanita
+2. Kategori Produk -> Kaos, Formal, dll
+3. Daftar Produk -> tampilkan Nama Produk/Merek kemudian Jumlah Produk
+4. Detail Produk -> menunjukkan Nama Produk/Merek dan Jumlah Produk
+
+ELEKTRONIK
+Setelah Pelanggan mengklik Pakaian, akan ada:
+1. Filter Kategori Produk => KOMPUTER atau SMARTPHONE
+2. Daftar Produk -> tampilkan Nama Produk/Merek kemudian Jumlah Produk
+3. Detail Produk -> menunjukkan Nama Produk/Merek dan Jumlah Produk
+
+BUKU
+Setelah Pelanggan mengklik Pakaian, akan ada:
+1. Daftar Produk -> tampilkan Nama Produk/Merek kemudian Jumlah Produk
+2. Detail Produk -> menunjukkan Nama Produk/Merek dan Jumlah Produk
+
+BARANG LAINNYA
+Setelah Pelanggan mengklik Pakaian, akan ada:
+1. Daftar Produk -> tampilkan Nama Produk/Merek kemudian Jumlah Produk
+2. Detail Produk -> menunjukkan Nama Produk/Merek dan Jumlah Produk
